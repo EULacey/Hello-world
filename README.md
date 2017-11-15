@@ -1,2 +1,3 @@
 # Hello-world
-intro
+
+Just beginning to learn java. Looking to begin a career tech.
