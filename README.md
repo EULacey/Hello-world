@@ -1,3 +1,3 @@
 # Hello-world
 
-Just beginning to learn java. Looking to begin a career tech.
+Just beginning to learn java. Looking to begin a career in tech.
